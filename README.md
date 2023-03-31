@@ -1,16 +1,31 @@
-### Hi there 👋
+Sobre mim
 
-<!--
-**DarkFox97/DarkFox97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é André Aguiar e sou um desenvolvedor iniciante. Atualmente, estou aprendendo Python e tenho interesse em Java, HTML e CSS. Meu objetivo é me tornar um desenvolvedor completo e contribuir para projetos incríveis.
 
-Here are some ideas to get you started:
+Habilidades técnicas:
+Conhecimento básico de Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades não técnicas:
+Boa capacidade de comunicação e trabalho em equipe
+Capacidade de aprender rapidamente e de forma autônoma
+Boa habilidade em resolução de problemas e pensamento crítico
+
+Projetos
+Aqui estão alguns dos projetos que desenvolvi enquanto aprendo a programar:
+
+Calculadora:
+Calculadora baseada no projeto do Guanabara com leves modificações para torna-la esteticamente diferente do que foi mostrado na aula.
+
+Jogo de escolhas:
+Estou desenvolvendo um jogo de escolhas usando a linguagem Python. O jogo permitirá que os jogadores tomem decisões que afetam o enredo, e estou trabalhando para criar uma experiência envolvente e imersiva para o jogador. Estou usando Python para lidar com a lógica do jogo, criar as opções de escolha e gerenciar o fluxo do enredo.
+
+Técnologias usadas nos projetos:
+Python
+
+Contato
+Se você tiver interesse em me contratar ou quiser colaborar em um projeto, pode me contatar pelo seguinte:
+
+[LINK PARA SEU PERFIL NO LINKEDIN]
+andre.aguiar522@gmail.com
+[LINK PARA SEU PERFIL NO GITHUB]
+Obrigado por ler! Estou animado para continuar a desenvolver minhas habilidades e trabalhar em projetos incríveis.
