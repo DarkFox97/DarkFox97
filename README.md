@@ -26,7 +26,9 @@ Contato
 Se você tiver interesse em me contratar ou quiser colaborar em um projeto, pode me contatar pelo seguinte:
 
 andre.aguiar522@gmail.com
+
 https://github.com/DarkFox97
+
 https://www.linkedin.com/in/andre-aguiar97/
 
 Obrigado por ler! Estou animado para continuar a desenvolver minhas habilidades e trabalhar em projetos incríveis.
