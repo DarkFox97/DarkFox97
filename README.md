@@ -9,7 +9,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas                            
 # **Habilidades técnicas:**
 **Conhecimento básico de Python**
 
-# **Habilidades não técnicas:**
+# **Habilidades interpessoais:**
 **Boa capacidade de comunicação e trabalho em equipe**
 
 **Capacidade de aprender rapidamente e de forma autônoma**
