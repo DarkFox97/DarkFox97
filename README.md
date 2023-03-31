@@ -25,7 +25,7 @@ Python
 Contato
 Se você tiver interesse em me contratar ou quiser colaborar em um projeto, pode me contatar pelo seguinte:
 
-[LINK PARA SEU PERFIL NO LINKEDIN]
+
 andre.aguiar522@gmail.com
-[LINK PARA SEU PERFIL NO GITHUB]
+
 Obrigado por ler! Estou animado para continuar a desenvolver minhas habilidades e trabalhar em projetos incríveis.
