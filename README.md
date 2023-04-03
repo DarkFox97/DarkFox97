@@ -23,7 +23,7 @@ Aqui estão alguns dos projetos que desenvolvi enquanto aprendo a programar:
 Calculadora baseada no projeto do Guanabara com leves modificações para torna-la esteticamente diferente do que foi mostrado na aula.
 
 **Jogo de escolhas:**
-Estou desenvolvendo um jogo de escolhas usando a linguagem Python. O jogo permitirá que os jogadores tomem decisões que afetam o enredo, e estou trabalhando para criar uma experiência envolvente e imersiva para o jogador. Estou usando Python para lidar com a lógica do jogo, criar as opções de escolha e gerenciar o fluxo do enredo.
+Estou desenvolvendo um jogo de escolhas usando a linguagem Python. O jogo permitirá que os jogadores tomem decisões que afetam o enredo, e estou trabalhando para criar uma experiência envolvente e imersiva para o jogador. Estou usando Python para lidar com a lógica do jogo, criar as opções de escolha e gerenciar o fluxo do enredo. Em breve vou aplicar as técnicas de **Clean Code**
 
 **Técnologias usadas nos projetos:**
 Python
